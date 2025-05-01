@@ -1,7 +1,7 @@
-# Hey! I am Nehil Chandrakar 
-### Fullstack developer upcoming AI Engineer
 
-## Hi there 👋, I'm Nehil Chandrakar
+## Hello, I'm Nehil Chandrakar
+
+### Fullstack developer 
 
 ### 🚀 About Me
 
@@ -68,7 +68,7 @@
 ### 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEhil06e&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEhil06&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
