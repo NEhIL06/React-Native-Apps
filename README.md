@@ -1,11 +1,11 @@
-# Hey! I am [Nehil Chandrakar] 
+# Hey! I am Nehil Chandrakar 
 ### Fullstack developer upcoming AI Engineer
 
-## Hi there 👋, I'm [Nehil Chandrakar]
+## Hi there 👋, I'm Nehil Chandrakar
 
 ### 🚀 About Me
 
-3rd-year engineering student passionate about AI, web development and LLMs. Currenlty I'm working on Refining my skills in GenAI and LLM Training.
+3rd-year engineering student passionate about AI, web development and LLMs. Currently working on Refining my skills in GenAI and LLM Training.
 
 ### ⚡ Tech Stack:
 
@@ -57,20 +57,21 @@
 
 - [LinkedIn](https://www.linkedin.com/in/nehil-chandrakar-272410259/)
 - [Email](mailto:chnadrakarnehil.06112002@gmail.com)
+- [x.com](https://x.com/Chandrakar43234)
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NEhil06&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ### 📈 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEhil06e&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 ---
-*Pre-Final Year Student at [Siddaganga Institute of Technology] 
+*Pre-Final Year Student at Siddaganga Institute of Technology 
 
-⭐️ From [YourGitHubUsername](https://github.com/NEhil06)
+⭐️ From [NEhil06](https://github.com/NEhil06)
