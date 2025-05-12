@@ -18,10 +18,4 @@ They are apps which represent multiple features and helped me practice to write 
 - Persistent storage of todos
 - Cross-platform compatibility (iOS & Android)
 
-Your Name
-- GitHub: [@yourusername](link-to-github)
-- LinkedIn: [Your Name](link-to-linkedin)
-
----
-
 ⭐️ If you found this project helpful, please give it a star on GitHub!
